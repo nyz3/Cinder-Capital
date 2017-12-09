@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/QingshengQuinn/Desktop/Nathan&apos;s CS Projects/Projects/SmartFinance/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/QingshengQuinn/Desktop/Nathan&apos;s CS Projects/Projects/SmartFinance/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/QingshengQuinn/Desktop/Nathan&apos;s CS Projects/Projects/SmartFinance/lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/QingshengQuinn/Desktop/Nathan&apos;s CS Projects/Projects/SmartFinance/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/QingshengQuinn/Desktop/Nathan&apos;s CS Projects/Projects/SmartFinance/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/QingshengQuinn/Desktop/Nathan&apos;s CS Projects/Projects/SmartFinance/lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/QingshengQuinn/Desktop/Nathan&apos;s CS Projects/Projects/SmartFinance/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
