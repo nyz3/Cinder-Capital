@@ -1,2 +1,1 @@
-# SmartFinance
-side project for financial analysis and stock comparison using excel manipulation
+I am currently a software developer for Cinder Capital and this project is focused on developing web-scraping and data gathering functions to quickly and efficiently manipulate data to seek good investment opportunities in the equity markets. 
